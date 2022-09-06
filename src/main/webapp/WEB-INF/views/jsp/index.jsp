@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Hi Aparna how are you</h2>
-			<h3>I am sorry for my behavior... :-)</h3>
+			<h2>Hi  </h2>
+			<h3> test tomcat ... :-)</h3>
 		</div>	
 	</div>
 
