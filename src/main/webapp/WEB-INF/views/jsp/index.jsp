@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Hi Aparna how are you</h2>
-			<h3>I am dorry for my behavior... :-)</h3>
+			<h3>I am sorry for my behavior... :-)</h3>
 		</div>	
 	</div>
 
